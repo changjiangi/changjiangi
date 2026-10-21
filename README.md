@@ -10,7 +10,7 @@ Full-stack engineer working across **Go, TypeScript, PHP, and Vue**.
 I build backend systems, automation, and tooling for agents — with a soft spot for reverse engineering and developer experience.
 
 [![GitHub](https://img.shields.io/badge/GitHub-changjiangi-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/changjiangi)
-[![Repositories](https://img.shields.io/badge/Repositories-10-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/changjiangi?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-2-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/changjiangi?tab=repositories)
 [![Profile views](https://komarev.com/ghpvc/?username=changjiangi&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge)](https://github.com/changjiangi)
 
 </div>
@@ -38,10 +38,7 @@ I build backend systems, automation, and tooling for agents — with a soft spot
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[omp-purge](https://github.com/changjiangi/omp-purge)** | Session-scoped system-prompt switch for omp | `TypeScript` |
-| **[rea](https://github.com/changjiangi/rea)** | Reverse engineering with agents, from app behavior to native binaries | `TypeScript` |
-| **[gaowang](https://github.com/changjiangi/gaowang)** | Go backend / systems project | `Go` |
-| **[videoflow](https://github.com/changjiangi/videoflow)** | Video workflow tooling | `TypeScript` |
+| **[omp-purge](https://github.com/changjiangi/omp-purge)** | Session-scoped system-prompt switch for omp. Install with `omp plugin install github:changjiangi/omp-purge` | `TypeScript` |
 
 ---
 
