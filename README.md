@@ -57,7 +57,7 @@ I build backend systems, automation, and tooling for agents — with a soft spot
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=changjiangi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=changjiangi&theme=github_dark" alt="Profile details" />
 </div>
 
 ---
