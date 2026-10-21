@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-label="Changjiang Qian — Full-Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070d"/>
+      <stop offset="0.55" stop-color="#0a1020"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="930" y1="95" x2="1100" y2="225" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.55" stop-color="#79c0ff"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(1010 40) rotate(90) scale(250 250)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1f6feb" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(120 300) rotate(-90) scale(240 240)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a371f7" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#a371f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#1f6feb" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect width="1200" height="300" fill="url(#glowA)"/>
+  <rect width="1200" height="300" fill="url(#glowB)"/>
+
+  <rect x="32" y="26" width="1136" height="248" rx="18" fill="#0d1117" fill-opacity="0.58" stroke="#30363d"/>
+  <path d="M32 62H1168" stroke="#30363d"/>
+  <circle cx="58" cy="45" r="5" fill="#ff5f56"/>
+  <circle cx="76" cy="45" r="5" fill="#ffbd2e"/>
+  <circle cx="94" cy="45" r="5" fill="#27c93f"/>
+  <text x="118" y="50" fill="#8b949e" font-family="'SFMono-Regular','JetBrains Mono',Menlo,monospace" font-size="13">~/profile — changjiangi</text>
+  <text x="1148" y="50" text-anchor="end" fill="#6e7681" font-family="'SFMono-Regular','JetBrains Mono',Menlo,monospace" font-size="12">omp · go · typescript · php</text>
+
+  <g font-family="'SFMono-Regular','JetBrains Mono',Menlo,monospace">
+    <text x="72" y="132" fill="#f0f6fc" font-size="46" font-weight="700" letter-spacing="2">CHANGJIANG QIAN</text>
+    <text x="74" y="168" fill="#8b949e" font-size="15" letter-spacing="3.2">FULL-STACK ENGINEER / SYSTEMS · AGENTS · AUTOMATION</text>
+
+    <g transform="translate(72 218)">
+      <text fill="#3fb950" font-size="14">➜</text>
+      <text x="24" fill="#58a6ff" font-size="14">~</text>
+      <text x="40" fill="#c9d1d9" font-size="14">status --now</text>
+      <text x="166" fill="#8b949e" font-size="14">building tools that make agents useful</text>
+    </g>
+  </g>
+
+  <g opacity="0.95">
+    <rect x="930" y="94" width="172" height="132" rx="18" fill="#0d1117" stroke="#1f6feb" stroke-opacity="0.55"/>
+    <rect x="944" y="108" width="144" height="104" rx="12" fill="#1f6feb" fill-opacity="0.06"/>
+    <text x="1016" y="176" text-anchor="middle" fill="url(#accent)" font-family="'SFMono-Regular','JetBrains Mono',Menlo,monospace" font-size="58" font-weight="700">CQ</text>
+    <text x="1016" y="202" text-anchor="middle" fill="#6e7681" font-family="'SFMono-Regular','JetBrains Mono',Menlo,monospace" font-size="10" letter-spacing="3">/ ROOT</text>
+  </g>
+
+  <g fill="#58a6ff" opacity="0.75">
+    <circle cx="880" cy="90" r="2"/>
+    <circle cx="904" cy="76" r="1.5"/>
+    <circle cx="856" cy="120" r="1.5"/>
+    <circle cx="1124" cy="170" r="2"/>
+    <circle cx="1104" cy="196" r="1.5"/>
+  </g>
+</svg>
